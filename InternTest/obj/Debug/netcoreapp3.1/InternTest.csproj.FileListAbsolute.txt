@@ -1,0 +1,25 @@
+C:\Users\lukee\source\repos\InternTest\InternTest\bin\Debug\netcoreapp3.1\InternTest.exe
+C:\Users\lukee\source\repos\InternTest\InternTest\bin\Debug\netcoreapp3.1\InternTest.deps.json
+C:\Users\lukee\source\repos\InternTest\InternTest\bin\Debug\netcoreapp3.1\InternTest.runtimeconfig.json
+C:\Users\lukee\source\repos\InternTest\InternTest\bin\Debug\netcoreapp3.1\InternTest.runtimeconfig.dev.json
+C:\Users\lukee\source\repos\InternTest\InternTest\bin\Debug\netcoreapp3.1\InternTest.dll
+C:\Users\lukee\source\repos\InternTest\InternTest\bin\Debug\netcoreapp3.1\InternTest.pdb
+C:\Users\lukee\source\repos\InternTest\InternTest\obj\Debug\netcoreapp3.1\InternTest.AssemblyInfoInputs.cache
+C:\Users\lukee\source\repos\InternTest\InternTest\obj\Debug\netcoreapp3.1\InternTest.AssemblyInfo.cs
+C:\Users\lukee\source\repos\InternTest\InternTest\obj\Debug\netcoreapp3.1\InternTest.csproj.CoreCompileInputs.cache
+C:\Users\lukee\source\repos\InternTest\InternTest\obj\Debug\netcoreapp3.1\InternTest.dll
+C:\Users\lukee\source\repos\InternTest\InternTest\obj\Debug\netcoreapp3.1\InternTest.pdb
+C:\Users\lukee\source\repos\InternTest\InternTest\obj\Debug\netcoreapp3.1\InternTest.genruntimeconfig.cache
+C:\Users\lukee\Desktop\CSharp Projects\InternTest\InternTest\bin\Debug\netcoreapp3.1\InternTest.exe
+C:\Users\lukee\Desktop\CSharp Projects\InternTest\InternTest\bin\Debug\netcoreapp3.1\InternTest.deps.json
+C:\Users\lukee\Desktop\CSharp Projects\InternTest\InternTest\bin\Debug\netcoreapp3.1\InternTest.runtimeconfig.json
+C:\Users\lukee\Desktop\CSharp Projects\InternTest\InternTest\bin\Debug\netcoreapp3.1\InternTest.runtimeconfig.dev.json
+C:\Users\lukee\Desktop\CSharp Projects\InternTest\InternTest\bin\Debug\netcoreapp3.1\InternTest.dll
+C:\Users\lukee\Desktop\CSharp Projects\InternTest\InternTest\bin\Debug\netcoreapp3.1\InternTest.pdb
+C:\Users\lukee\Desktop\CSharp Projects\InternTest\InternTest\obj\Debug\netcoreapp3.1\InternTest.csprojAssemblyReference.cache
+C:\Users\lukee\Desktop\CSharp Projects\InternTest\InternTest\obj\Debug\netcoreapp3.1\InternTest.AssemblyInfoInputs.cache
+C:\Users\lukee\Desktop\CSharp Projects\InternTest\InternTest\obj\Debug\netcoreapp3.1\InternTest.AssemblyInfo.cs
+C:\Users\lukee\Desktop\CSharp Projects\InternTest\InternTest\obj\Debug\netcoreapp3.1\InternTest.csproj.CoreCompileInputs.cache
+C:\Users\lukee\Desktop\CSharp Projects\InternTest\InternTest\obj\Debug\netcoreapp3.1\InternTest.dll
+C:\Users\lukee\Desktop\CSharp Projects\InternTest\InternTest\obj\Debug\netcoreapp3.1\InternTest.pdb
+C:\Users\lukee\Desktop\CSharp Projects\InternTest\InternTest\obj\Debug\netcoreapp3.1\InternTest.genruntimeconfig.cache
